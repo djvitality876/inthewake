@@ -38,8 +38,6 @@ There should be whitespace between paragraphs. We recommend including a README, 
       - Role: Graphic Guide/Editor; Content Contributor 
       - Bio: 
 
-### Small image
-
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 ### Definition list: the wake
