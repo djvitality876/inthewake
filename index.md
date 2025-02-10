@@ -2,9 +2,14 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+**Description:** We are delighted to propose a digital extension to your groundbreaking monograph, In the Wake: On Blackness and Being (2016). This textual visualization is being realized at the University of Miami as part of the Spring 2025 Digital Humanities Practicum.
 
-[Link to another page](./another-page.html).
+**Bibliography:**
+Sharpe, Christina. _In the Wake: On Blackness and Being._ Duke University Press, 2016.
+
+**Resources:**
+
+[Extractivism, an example of an online graphic essay](https://extractivism.online/).
 
 There should be whitespace between paragraphs.
 
