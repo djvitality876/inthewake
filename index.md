@@ -19,10 +19,10 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 | Week        | Task          | Assignee |
 |:-------------|:------------------|:------|
-| Week 4           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| Week 4           | Contact author | Ra & team  |
+| Week 5 | good and plenty   | next  |
+| Week 6           | good `oreos`      | next   |
+| Week 7           | good `zoute` drop | next  |
 
 **Team Roles & Bios:**
 *   Ra Bacchus:
@@ -42,28 +42,19 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
+### Definition list: the wake
 
 <dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
+<dt>Wake</dt>
+<dd>The trail left by a watercraft</dd>
+<dt>Wake</dt>
+<dd>A burial rite</dd>
+<dt>Wake</dt>
+<dd>Cultural production informed by critical race theory</dd>
+<dt>Wake</dt>
+<dd>State of awareness or consciousness</dd>
 </dl>
 
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
+Back-end questions: bacchusjr@miami.edu
 ```
