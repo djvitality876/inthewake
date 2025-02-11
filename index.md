@@ -20,7 +20,7 @@ Summary: In a time in which wokeness is increasingly gaining attention in our na
 
 | Week        | Task          | Assignee |
 |:-------------|:------------------|:------|
-| Week 4           | Contact Christina Sharpe; Define graphic identity; Begin Github page | Ra & team; Nico & team; Massiel & team (respectively) |
+| Week 4           | - Contact Christina Sharpe<br/> - Define graphic identity<br/> - Begin Github page<br/> | Ra & team; Nico & team; Massiel & team (respectively) |
 | Week 5 | Close reading of ch. 2 of monograph-generate list of 10 themes; Land on art software and text-art workflow; Individual Journals Due   | Entire Team; Nico (respectively)  |
 | Week 6           | Visualizing themes: 1) generate an image associated with each theme, 2) generate a dozen frames per image; Group Report I Due (Massiel)    | Entire Team   |
 | Week 7           | Animate images: 1) upload ASCII to GIPHY | Each member animates images according to their chosen themes  |
