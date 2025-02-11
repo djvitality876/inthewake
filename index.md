@@ -18,6 +18,7 @@ Summary: In a time in which wokeness is increasingly gaining attention in our na
 *   Digital Tools: Processing (JS library) and Animating (Python coding allows more creative control than GIPHY generator)
 
 ![Wynter](assets/img/wynter.png)
+**Caption:** Text quoted from the first paragraph of Chapter 2 of _In The Wake_ (2016) processed into a portrait of Sylvia Wynter.
 
 **Work Plan:**
 
