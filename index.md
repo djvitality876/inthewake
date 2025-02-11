@@ -15,6 +15,7 @@ Summary: In a time in which wokeness is increasingly gaining attention in our na
 *   [An example of static ASCII art:](https://scipython.com/blog/ascii-art/).
 *   [An example of animated ASCII art:](https://giphy.com/explore/ascii-art).
 *   [An example of a pixellated video-essay:](https://vimeo.com/461887125).
+*   Digital Tools: Processing (JS library) and Animating (Python coding allows more creative control than GIPHY generator)
 
 ![Wynter](assets/img/wynter.png)
 
@@ -22,17 +23,17 @@ Summary: In a time in which wokeness is increasingly gaining attention in our na
 
 | Week        | Task          | Assignee |
 |:-------------|:------------------|:------|
-| Week 4           | - Contact Christina Sharpe<br/> - Define graphic identity<br/> - Begin Github page<br/> | Ra & team; Nico & team; Massiel & team (respectively) |
-| Week 5 | Close reading of ch. 2 of monograph-generate list of 10 themes; Land on art software and text-art workflow; Individual Journals Due   | Entire Team; Nico (respectively)  |
-| Week 6           | Visualizing themes: 1) generate an image associated with each theme, 2) generate a dozen frames per image; Group Report I Due (Massiel)    | Entire Team   |
-| Week 7           | Animate images: 1) upload ASCII to GIPHY | Each member animates images according to their chosen themes  |
-| Week 8           | Animate images: 1) upload ASCII to GIPHY; Group Report II Due (Ra) | Each member animates images according to their chosen themes  |
+| Week 4           | - Contact Christina Sharpe<br/> - Define graphic identity<br/> - Begin Github page<br/> | - Ra & team<br/> - Nico & team<br/> - Massiel & team<br/> |
+| Week 5 | - Close reading of ch. 2 of monograph-generate list of 10 themes<br/> - Land on art software and text-art workflow<br/> - Individual Journals Due<br/>   | - Entire Team<br/> - Nico<br/>   |
+| Week 6           | - Visualizing themes:<br/> —- 1) generate an image associated with each theme<br/> —- 2) generate a dozen frames per image<br/>  - Group Report I Due (Massiel)<br/>    | Entire Team   |
+| Week 7           | Animate images: Convert ASCII to Animation | Each member animates images according to their chosen themes  |
+| Week 8           | - Animate images: Convert ASCII to Animation<br/> - Group Report II Due (Ra) | Each member animates images according to their chosen themes  |
 | Week 9 | Read design texts   | Entire Team  |
-| Week 10           | Plan website layout: 1) text/commentary, 2) media, 3) sections; Individual Journals Due   | Nico (lead) + team support   |
-| Week 11           | Building sections (headers, tabs, etc.); Group Report III Due (Nico) | Ra (lead) + team support  |
+| Week 10           | - Plan website layout:<br/>  —- 1) text/commentary,<br/>  —- 2) media,<br/>  —- 3) sections<br/>  - Individual Journals Due   | Nico (lead) + team support   |
+| Week 11           | - Building sections (headers, tabs, etc.)<br/> - Group Report III Due (Nico)<br/> | Ra (lead) + team support  |
 | Week 12           | Upload text;  Individual Journals Due    | Ra & Massiel (leads) + Nico and Nina   |
 | Week 13           | Upload media; Group Report IV Due (Nina) | Ra & Massiel (leads) + Nico and Nina  |
-| Week 14           | Cleaning up the arrangement; Testing website on different devices: 1) usability, 2) exports; Individual Journals Due | Nina (lead) & Massiel (support) |
+| Week 14           | - Cleaning up the arrangement<br/> - Testing website on different devices:<br/> —- 1) usability,<br/> —- 2) exports<br/> - Individual Journals Due<br/> | Nina (lead) & Massiel (support) |
 | Week 15 | Presentation practice   | Entire team  |
 | Week 16           | TBD     | Entire team   |
 
