@@ -16,6 +16,8 @@ Summary: In a time in which wokeness is increasingly gaining attention in our na
 *   [An example of animated ASCII art:](https://giphy.com/explore/ascii-art).
 *   [An example of a pixellated video-essay:](https://vimeo.com/461887125).
 
+![Wynter](assets/img/wynter.png)
+
 **Work Plan:**
 
 | Week        | Task          | Assignee |
