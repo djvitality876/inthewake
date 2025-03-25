@@ -1,9 +1,13 @@
-title: In The Wake — A Digital Voyage
-logo: /assets/img/wake.jpg
-description: Minimal is a theme for GitHub Pages.
-show_downloads: false
-google_analytics:
 theme: jekyll-theme-minimal
+
+# Site settings
+title: In The Wake: A Digital Extension
+description: >
+  This is the codebase for "In The Wake: A Digital Extension," which uses ASCII art to visualize critical text.
+baseurl: "/inthewake" # the subpath of your site, e.g. /blog
+url: "https://djvitality876.github.io" # the base hostname & protocol for your site
+
+# Navigation links
 nav:
   - Home: /
   - About: /about/
