@@ -1,9 +1,8 @@
 theme: jekyll-theme-cayman
 
 # Site settings
-title: In The Wake: A Digital Extension
-description: >
-  This is the codebase for "In The Wake: A Digital Extension," which uses ASCII art to visualize critical text.
+title: "In The Wake: A Digital Extension"
+description: "This is the codebase for 'In The Wake: A Digital Extension,' which uses ASCII art to visualize critical text."
 baseurl: "/inthewake" # the subpath of your site, e.g. /blog
 url: "https://djvitality876.github.io" # the base hostname & protocol for your site
 
